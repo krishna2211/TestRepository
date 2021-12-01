@@ -11,3 +11,17 @@ E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCom
 E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Bushra\Source\Repos\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
