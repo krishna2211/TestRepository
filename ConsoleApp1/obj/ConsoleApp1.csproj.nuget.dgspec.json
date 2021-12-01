@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bushra\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\singh\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bushra\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\singh\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bushra\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\singh\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Bushra\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Bushra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bushra\\Source\\Repos\\TestRepository\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\singh\\Source\\Repos\\TestRepository\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\singh\\Source\\Repos\\TestRepository\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bushra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
