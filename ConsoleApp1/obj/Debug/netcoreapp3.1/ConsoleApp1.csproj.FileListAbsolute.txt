@@ -1,0 +1,13 @@
+E:\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\TestRepository\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\TestRepository\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
